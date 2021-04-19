@@ -4,16 +4,18 @@
   "author": "Aleksandar Milicevic",
   "license": "MIT",
   "version": "1.0.0",
+  "private": true,
+  "workspaces": [
+    "modules/*"
+  ],
   "keywords": [
     "vue",
     "template",
     "boilerplate",
     "javascript"
   ],
-  "private": true,
-  "workspaces": [
-    "modules/*"
-  ],
+  "devDependencies": {},
+  "dependencies": {},
   "volta": {
     "node": "14.16.1",
     "yarn": "1.22.10"
