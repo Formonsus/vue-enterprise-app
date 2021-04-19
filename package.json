@@ -9,5 +9,9 @@
     "template",
     "boilerplate",
     "javascript"
+  ],
+  "private": true,
+  "workspaces": [
+    "modules/*"
   ]
 }
