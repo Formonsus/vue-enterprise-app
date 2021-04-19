@@ -14,7 +14,10 @@
     "boilerplate",
     "javascript"
   ],
-  "devDependencies": {},
+  "devDependencies": {
+    "lerna": "^4.0.0",
+    "lerna-changelog": "^1.0.1"
+  },
   "dependencies": {},
   "volta": {
     "node": "14.16.1",
