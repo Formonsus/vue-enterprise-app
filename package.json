@@ -1,0 +1,13 @@
+{
+  "name": "@formonsus/vue-enterprise-app",
+  "description": "Opinionated architecutre for Vue 3 applications.",
+  "author": "Aleksandar Milicevic",
+  "license": "MIT",
+  "version": "1.0.0",
+  "keywords": [
+    "vue",
+    "template",
+    "boilerplate",
+    "javascript"
+  ]
+}
