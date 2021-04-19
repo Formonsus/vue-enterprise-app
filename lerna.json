@@ -1,0 +1,6 @@
+{
+  "packages": ["modules/*", "shared/*"],
+  "npmClient": "yarn",
+  "version": "independent",
+  "useWorkspaces": true
+}
