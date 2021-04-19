@@ -1,0 +1,21 @@
+# EditorConfig helps developers to define and maintain consistent coding styles between different editors and IDEs
+# For more information about EditorConfig visit: https://editorconfig.org/
+
+# top-most EditorConfig file
+root = true
+
+# Unix-style newlines with a newline ending on every file
+[*]
+end_of_line = lf
+insert_final_newline = true
+
+charset = utf-8
+trim_trailing_whitespace = true
+
+# Identation
+indent_style = space
+indent_size = 2
+
+[*.md]
+insert_final_newline = false
+trim_trailing_whitespace = false
