@@ -1,4 +1,12 @@
 {
   "trailingComma": "none",
-  "printWidth": 120
+  "printWidth": 120,
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "strict",
+  "singleQuote": false,
+  "useTabs": false,
+  "tabWidth": 2,
+  "vueIndentScriptAndStyle": false
 }
