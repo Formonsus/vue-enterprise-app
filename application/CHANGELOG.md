@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.3.1](https://github.com/Formonsus/vue-enterprise-app/compare/@vue-enterprise-app/application@1.3.0...@vue-enterprise-app/application@1.3.1) (2021-04-22)
+
+
+### Bug Fixes
+
+* **application:** readme ([3964aa7](https://github.com/Formonsus/vue-enterprise-app/commit/3964aa717862d7ac3ddec436152ecbd8c40383ac))
+
+
+
+
+
 # [1.3.0](https://github.com/Formonsus/vue-enterprise-app/compare/@vue-enterprise-app/application@1.2.0...@vue-enterprise-app/application@1.3.0) (2021-04-22)
 
 
