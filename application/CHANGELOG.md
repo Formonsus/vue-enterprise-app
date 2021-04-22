@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.3.0](https://github.com/Formonsus/vue-enterprise-app/compare/@vue-enterprise-app/application@1.2.0...@vue-enterprise-app/application@1.3.0) (2021-04-22)
+
+
+### Features
+
+* **application:** e2e tests ([a6cb825](https://github.com/Formonsus/vue-enterprise-app/commit/a6cb8255d646c97a2752413f2e5b178945b0343d))
+* **application:** example e2e test ([b0a62af](https://github.com/Formonsus/vue-enterprise-app/commit/b0a62afcc6b41175f3b9dce3150f4aa550372c32))
+
+
+
+
+
 # 1.2.0 (2021-04-22)
 
 
