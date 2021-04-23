@@ -19,9 +19,9 @@
   ],
   "scripts": {
     "prepare": "husky install",
-    "release": "lerna version --conventional-commits",
-    "clean": "yarn lerna run clean --concurrency 3",
-    "docs": "yarn lerna run docs"
+    "release": "scripty",
+    "clean": "scripty",
+    "api-docs": "scripty"
   },
   "devDependencies": {
     "@commitlint/cli": "^12.1.1",
@@ -37,6 +37,9 @@
     "scripty": "^2.0.0"
   },
   "dependencies": {},
+  "scripty": {
+    "path": "./scripts/workspace"
+  },
   "volta": {
     "node": "14.16.1",
     "yarn": "1.22.10"
