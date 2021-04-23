@@ -19,7 +19,8 @@
   ],
   "scripts": {
     "prepare": "husky install",
-    "release": "lerna version --conventional-commits"
+    "release": "lerna version --conventional-commits",
+    "clean": "yarn lerna run clean --concurrency 3"
   },
   "devDependencies": {
     "@commitlint/cli": "^12.1.1",
@@ -29,7 +30,8 @@
     "cz-conventional-changelog": "3.3.0",
     "husky": "^6.0.0",
     "lerna": "^4.0.0",
-    "lerna-changelog": "^1.0.1"
+    "lerna-changelog": "^1.0.1",
+    "rimraf": "^3.0.2"
   },
   "dependencies": {},
   "volta": {
