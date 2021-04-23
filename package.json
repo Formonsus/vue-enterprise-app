@@ -1,6 +1,7 @@
 {
   "name": "@formonsus/vue-enterprise-app",
   "description": "Opinionated architecutre for Vue 3 applications.",
+  "repository": "https://github.com/Formonsus/vue-enterprise-app",
   "author": "Aleksandar Milicevic",
   "license": "MIT",
   "version": "1.0.0",
