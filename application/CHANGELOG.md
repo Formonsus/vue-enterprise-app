@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.4.0](https://github.com/Formonsus/vue-enterprise-app/compare/@vue-enterprise-app/application@1.3.2...@vue-enterprise-app/application@1.4.0) (2021-04-23)
+
+
+### Features
+
+* **application:** clean script ([5f6c02a](https://github.com/Formonsus/vue-enterprise-app/commit/5f6c02a3fcd8014fec0d0a61fa010459f0a85122))
+* **application:** vuese documentation ([caddf3f](https://github.com/Formonsus/vue-enterprise-app/commit/caddf3fb2f6bba9f3283e60c1ffea6954aa0211c))
+
+
+
+
+
 ## [1.3.2](https://github.com/Formonsus/vue-enterprise-app/compare/@vue-enterprise-app/application@1.3.1...@vue-enterprise-app/application@1.3.2) (2021-04-22)
 
 
