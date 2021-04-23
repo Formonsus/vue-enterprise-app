@@ -20,12 +20,14 @@
   "scripts": {
     "prepare": "husky install",
     "release": "lerna version --conventional-commits",
-    "clean": "yarn lerna run clean --concurrency 3"
+    "clean": "yarn lerna run clean --concurrency 3",
+    "docs": "yarn lerna run docs"
   },
   "devDependencies": {
     "@commitlint/cli": "^12.1.1",
     "@commitlint/config-conventional": "^12.1.1",
     "@commitlint/config-lerna-scopes": "^12.1.1",
+    "@vuese/cli": "^2.14.3",
     "commitlint": "^12.1.1",
     "cz-conventional-changelog": "3.3.0",
     "husky": "^6.0.0",
