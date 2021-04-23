@@ -8,8 +8,8 @@
     "test:unit": "vue-cli-service test:unit",
     "test:e2e": "vue-cli-service test:e2e",
     "lint": "vue-cli-service lint",
-    "clean": "rimraf dist",
-    "api-docs": "vuese gen"
+    "clean": "scripty",
+    "api-docs": "scripty"
   },
   "dependencies": {
     "core-js": "^3.6.5",
@@ -38,5 +38,8 @@
     "sass-loader": "^8.0.2",
     "typescript": "~3.9.3",
     "vue-jest": "^5.0.0-0"
+  },
+  "scripty": {
+    "path": "../scripts/modules"
   }
 }
