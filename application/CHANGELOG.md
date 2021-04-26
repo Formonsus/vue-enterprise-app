@@ -3,6 +3,19 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.5.0](https://github.com/Formonsus/vue-enterprise-app/compare/@vue-enterprise-app/application@1.4.1...@vue-enterprise-app/application@1.5.0) (2021-04-26)
+
+
+### Features
+
+* **application:** install storybook ([68218e8](https://github.com/Formonsus/vue-enterprise-app/commit/68218e89917bdb21e345469192deb319442bf12a))
+* **application:** storybook examples ([7460476](https://github.com/Formonsus/vue-enterprise-app/commit/74604760d2c2f692c74548efa7273aa17500ab66))
+* **application:** update gitignore ([374adbf](https://github.com/Formonsus/vue-enterprise-app/commit/374adbfdaeb6418946de2feea64e43e6ae2b2923))
+
+
+
+
+
 ## [1.4.1](https://github.com/Formonsus/vue-enterprise-app/compare/@vue-enterprise-app/application@1.4.0...@vue-enterprise-app/application@1.4.1) (2021-04-23)
 
 **Note:** Version bump only for package @vue-enterprise-app/application
