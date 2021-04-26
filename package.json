@@ -22,7 +22,8 @@
     "prepare": "husky install",
     "release": "scripty",
     "clean": "scripty",
-    "api-docs": "scripty"
+    "api-docs": "scripty",
+    "commit": "cz"
   },
   "devDependencies": {
     "@commitlint/cli": "^12.1.1",
