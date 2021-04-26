@@ -5,8 +5,8 @@
   "scripts": {
     "serve": "scripty",
     "build": "scripty",
-    "test:unit": "scripty",
-    "test:e2e": "scripty",
+    "test-unit": "scripty",
+    "test-e2e": "scripty",
     "lint": "scripty",
     "clean": "scripty",
     "api-docs": "scripty",
