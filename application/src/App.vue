@@ -8,9 +8,23 @@
 
 <!-- This should generally be the only global CSS in the app. -->
 <style lang="scss">
+@import "./design/";
+
 *,
 *::before,
 *::after {
   box-sizing: border-box;
+}
+
+body {
+  background: $color-body-bg;
+}
+
+// ===
+// Base element styles
+// ===
+a,
+a:visited {
+  color: $color-link-text;
 }
 </style>
