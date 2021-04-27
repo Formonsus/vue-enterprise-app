@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.6.0](https://github.com/Formonsus/vue-enterprise-app/compare/@vue-enterprise-app/application@1.5.1...@vue-enterprise-app/application@1.6.0) (2021-04-27)
+
+
+### Features
+
+* **application:** add fonts ([7ea7315](https://github.com/Formonsus/vue-enterprise-app/commit/7ea7315b9b24add19cb8c9d0d193c49ff5500cc5))
+* **application:** main scss export ([a358a52](https://github.com/Formonsus/vue-enterprise-app/commit/a358a528ce355e204ceb9ab598fc56d80eb5c19a))
+* **application:** scss variable ([2df3ae7](https://github.com/Formonsus/vue-enterprise-app/commit/2df3ae742ecc5e5fc3d3144b9e6338502ea568fd))
+* **application:** use scss variables ([1c34565](https://github.com/Formonsus/vue-enterprise-app/commit/1c345650962ac0d45a4061ada4a25d1df19653d3))
+
+
+
+
+
 ## [1.5.1](https://github.com/Formonsus/vue-enterprise-app/compare/@vue-enterprise-app/application@1.5.0...@vue-enterprise-app/application@1.5.1) (2021-04-26)
 
 **Note:** Version bump only for package @vue-enterprise-app/application
