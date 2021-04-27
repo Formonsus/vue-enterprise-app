@@ -1,30 +1,16 @@
 <template>
-  <div id="nav">
-    <router-link to="/">Home</router-link> |
-    <router-link to="/about">About</router-link>
-  </div>
-  <router-view />
+  <!--
+    By binding the `key` to `$route.fullPath`, we are forcing the "replacement" of the RouterView component, even when
+    routes are using the same component. With this approach it will treat them as distinct and create the component again.
+  -->
+  <router-view :key="$route.fullPath" />
 </template>
 
+<!-- This should generally be the only global CSS in the app. -->
 <style lang="scss">
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
-
-#nav {
-  padding: 30px;
-
-  a {
-    font-weight: bold;
-    color: #2c3e50;
-
-    &.router-link-exact-active {
-      color: #42b983;
-    }
-  }
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
 }
 </style>
