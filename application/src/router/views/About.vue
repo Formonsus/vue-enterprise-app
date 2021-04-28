@@ -1,5 +1,13 @@
+<script>
+import Layout from "../layouts/MainLayout.vue";
+
+export default {
+  components: { Layout }
+};
+</script>
+
 <template>
-  <div class="about">
-    <h1>This is an about page</h1>
-  </div>
+  <Layout>
+    <h1>About</h1>
+  </Layout>
 </template>
