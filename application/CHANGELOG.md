@@ -3,6 +3,25 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.7.0](https://github.com/Formonsus/vue-enterprise-app/compare/@vue-enterprise-app/application@1.6.0...@vue-enterprise-app/application@1.7.0) (2021-04-28)
+
+
+### Bug Fixes
+
+* **application:** add missing css class ([06c9b8f](https://github.com/Formonsus/vue-enterprise-app/commit/06c9b8f8b88405134c465693d34fc33c70cf6601))
+
+
+### Features
+
+* **application:** add 404 page ([b777328](https://github.com/Formonsus/vue-enterprise-app/commit/b777328b3c0c397a79cd4f8b2bda3eefccd704eb))
+* **application:** loading ([046c122](https://github.com/Formonsus/vue-enterprise-app/commit/046c1222672612c30a74284bc2fb3d32d8e9e2b9))
+* **application:** main-layout ([d30f321](https://github.com/Formonsus/vue-enterprise-app/commit/d30f321c332d1573c15f0460a934cee936a9ff58))
+* **application:** timeout ([5a1e65b](https://github.com/Formonsus/vue-enterprise-app/commit/5a1e65b1efc83c8a94ad2058eedbfc3624873ad5))
+
+
+
+
+
 # [1.6.0](https://github.com/Formonsus/vue-enterprise-app/compare/@vue-enterprise-app/application@1.5.1...@vue-enterprise-app/application@1.6.0) (2021-04-27)
 
 
