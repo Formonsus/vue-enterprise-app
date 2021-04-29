@@ -3,6 +3,27 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [1.8.0](https://github.com/Formonsus/vue-enterprise-app/compare/@vue-enterprise-app/application@1.7.0...@vue-enterprise-app/application@1.8.0) (2021-04-29)
+
+
+### Bug Fixes
+
+* **application:** call validateProps ([cd8600d](https://github.com/Formonsus/vue-enterprise-app/commit/cd8600d8c4b4d8431539ab0549eb799476ca5d5b))
+
+
+### Features
+
+* **application:** 404 route ([2dd3764](https://github.com/Formonsus/vue-enterprise-app/commit/2dd3764828ab63c28ace8b88abeb843a68012cd6))
+* **application:** base link component ([53e168d](https://github.com/Formonsus/vue-enterprise-app/commit/53e168d22fdae0ec32ac7bdae462e86317a3a72b))
+* **application:** baseButton component ([754d4df](https://github.com/Formonsus/vue-enterprise-app/commit/754d4dfc2280b2fe38de4314fb231c191b020e69))
+* **application:** baseInputText component ([3da6019](https://github.com/Formonsus/vue-enterprise-app/commit/3da6019a9bfc329e3854f5a3a80a9a62c3da98d4))
+* **application:** call registerGlobalComponents ([42d54e7](https://github.com/Formonsus/vue-enterprise-app/commit/42d54e74413c44d5cfeee0701fbe8c52113f4b26))
+* **application:** globally register base components ([257fc0b](https://github.com/Formonsus/vue-enterprise-app/commit/257fc0b67fc88c3697f1c293d465405e46e61f39))
+
+
+
+
+
 # [1.7.0](https://github.com/Formonsus/vue-enterprise-app/compare/@vue-enterprise-app/application@1.6.0...@vue-enterprise-app/application@1.7.0) (2021-04-28)
 
 
