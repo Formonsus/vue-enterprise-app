@@ -32,6 +32,9 @@ export default {
       };
     }
   },
+  created() {
+    this.validateProps();
+  },
   methods: {
     // Perform more complex prop validations
     validateProps() {
